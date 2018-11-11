@@ -1,8 +1,10 @@
 # Generation-of-Poems-After-Training-on-Shakespeare-Sonnets
-Generating poems like Shakespeare poems after training on various Shakespeare Sonnets using LSTM
+Generating poems like Shakespeare poems after training on various Shakespeare Sonnets using Recurrent Neural Networks.
 
 # Dataset
-[Sonnets](https://www.gutenberg.org/ebooks/2264)
+The dataset is a collection of various Shakespeare sonnets.
+
+The dataset can be downloaded here : [Shakespeare Sonnets](https://www.gutenberg.org/ebooks/2264)
 
 # Requirements
 1. Python
